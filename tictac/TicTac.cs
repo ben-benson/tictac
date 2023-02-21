@@ -9,7 +9,7 @@ namespace tictac
 
             TicTacSession session = new TicTacSession();
 
-            Console.WriteLine("Let's play Tic Tac Toe!");
+            Console.WriteLine("Let's play Tic Tac!");
 
 
             TicTacPlayer p1 = new TicTacPlayerHuman();
