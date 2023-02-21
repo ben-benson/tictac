@@ -1,0 +1,15 @@
+/Users/benjaminbenson/Projects/tictac/tictac/bin/Debug/net7.0/tictac
+/Users/benjaminbenson/Projects/tictac/tictac/bin/Debug/net7.0/tictac.deps.json
+/Users/benjaminbenson/Projects/tictac/tictac/bin/Debug/net7.0/tictac.runtimeconfig.json
+/Users/benjaminbenson/Projects/tictac/tictac/bin/Debug/net7.0/tictac.dll
+/Users/benjaminbenson/Projects/tictac/tictac/bin/Debug/net7.0/tictac.pdb
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/tictac.csproj.AssemblyReference.cache
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/tictac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/tictac.AssemblyInfoInputs.cache
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/tictac.AssemblyInfo.cs
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/tictac.csproj.CoreCompileInputs.cache
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/tictac.dll
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/refint/tictac.dll
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/tictac.pdb
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/tictac.genruntimeconfig.cache
+/Users/benjaminbenson/Projects/tictac/tictac/obj/Debug/net7.0/ref/tictac.dll
